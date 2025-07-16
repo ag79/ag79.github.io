@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /yndx-gpx-web/
+Disallow: /
